@@ -7,4 +7,4 @@ def get_choices():
 choices = get_choices()
 print(choices)
 
-# Function 
+# Function is a block of statement that return the specific task
